@@ -1,0 +1,25 @@
+#footer {
+    background-color: #343434;
+}
+.text-footer {
+    color: #DCE1DA;
+}
+.mt-4_mod {
+    margin-top: 2rem;
+}
+.footer_menu p {
+    text-decoration: none;
+    cursor: pointer;
+    color: #DCE1DA;
+}
+.footer_logo {
+    cursor: pointer;
+}
+
+@media (max-width: 600px){
+    .media{
+        flex-direction: column;
+        align-content: center;
+    }
+
+}

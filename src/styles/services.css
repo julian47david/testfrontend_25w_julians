@@ -1,0 +1,29 @@
+
+.services {
+    background-color: #F2F4F1;
+}
+.services_title{
+    
+}
+.services_parrafo {
+    width: 60%;
+}
+.py-6 {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+.mx-4_mod {
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+.logo_services {
+    width: 47px;
+}
+.services_h3 {
+    width: auto;
+}
+@media (max-width: 450px){
+    .mx-4_mod {
+        margin: 0rem 4rem 2rem 4rem;
+    }
+}

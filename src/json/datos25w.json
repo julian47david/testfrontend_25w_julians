@@ -1,0 +1,32 @@
+{
+  "slider":[
+    {"title": "Sed ut perspiciatis unde omnis iste natus",
+    "subtitle":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque."},
+    {"title": "Proin elementum massa et felis",
+    "subtitle":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque."},
+    {"title": "Proin elementum massa et felis",
+    "subtitle":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque."}]
+    ,
+      "about":{
+    "title": ["About us", "We Help Businesses"],
+    "subtitle":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat."}
+    ,
+    "services":{
+    "title": "Services",
+    "section":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel gravida felis, id tempor ex. Suspendisse congue purus eu neque auctor, eget dictum ipsum facilisis. Sed scelerisque sodales lorem,",
+    "cards":["Stet clita kasd gubergren", "At vero eos et accusam", "Sed ut perspiciatis unde", "Lorem ipsum dolor sit amet"]
+    }
+    ,
+    "products":{
+    "title": "Products",
+    "subtitle":"In eget tortor tempor mollis purus",
+    "card_title":"Aliquam at dui lorem ipsum",
+    "card_items": ["- Ut mattis gravida efficitur.", "- Ut feugiat vehicula nibh, efficitur laoreet justo.", "- Molestie id. Integer varius enim sit amet egestas.", "- Ut mattis gravida efficitur."]
+    }
+    ,
+    "details":{
+    "title": "More details",
+    "subtitle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel gravida felis, id tempor ex. Suspendisse congue purus eu neque auctor, eget dictum ipsum facilisis. Sed scelerisque sodales lorem,",
+    "sections":["Donec egestas tortor quis turpis finibus vestibulum vel nec ex. Nunc sed velit ullamcorper.","Donec egestas tortor quis turpis finibus vestibulum vel nec ex. Nunc sed velit ullamcorper.","Donec egestas tortor quis turpis finibus vestibulum vel nec ex. Nunc sed velit ullamcorper.","Donec egestas tortor quis turpis finibus.","Donec egestas tortor quis turpis finibus.","Donec egestas tortor quis turpis finibus vestibulum vel nec ex. Nunc sed velit ullamcorper."]
+    }
+}
